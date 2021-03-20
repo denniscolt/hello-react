@@ -1,0 +1,2 @@
+(this.webpackJsonphello_react=this.webpackJsonphello_react||[]).push([[0],{13:function(e,t,n){"use strict";n.r(t);var r=n(0),c=n(3),a=n.n(c),o=n(4),i=n(5),s=n(7),u=n(6),p=n(1),b=function(e){Object(s.a)(n,e);var t=Object(u.a)(n);function n(){return Object(o.a)(this,n),t.apply(this,arguments)}return Object(i.a)(n,[{key:"render",value:function(){return Object(p.jsx)("div",{children:"App..."})}}]),n}(r.Component);a.a.render(Object(p.jsx)(b,{}),document.getElementById("root"))}},[[13,1,2]]]);
+//# sourceMappingURL=main.acc94d6b.chunk.js.map
